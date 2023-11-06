@@ -1,5 +1,3 @@
 - 👋 Break
 - 👀 中国江西
-- 🌱 后端开发
-- 💞️ 计算机专业
-- 📫 男
+- 🌱 Go、PHP、JavaScript、Python
